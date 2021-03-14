@@ -1,4 +1,5 @@
 <?php
     echo "Hello World!";
-    echo "Hello sudorm1023";
+    echo "你好呀！";
+    echo "我来了...";
 ?>
